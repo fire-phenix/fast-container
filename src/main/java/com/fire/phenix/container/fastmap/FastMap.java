@@ -190,7 +190,6 @@ public class FastMap<K, V> implements IFastMap<K, V> {
                 }
             }
         }
-//        System.out.println("FastMap init succeed. hashcode=" + this.hashCode());
     }
 
 
